@@ -73,7 +73,7 @@ Limitaciones Conocidas
 - El sistema de descuento y obsequios utiliza variables estáticas globales.
 - No se utiliza una base de datos real.
 
-Autor
+Autor:
 Alexander Carrasco 
 - Estudiante de Computación e Informática - 4to Ciclo
 - Proyecto educativo personal 
