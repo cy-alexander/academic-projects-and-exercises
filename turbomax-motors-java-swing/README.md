@@ -39,6 +39,7 @@ Cómo Ejecutar el Proyecto
 Requisitos Previos: 
   - JAVA JDK 8 o superior
   - Eclipse IDE (recomendado) o cualquier IDE compatible con proyectos Java
+
 Pasos de Instalación
 1. Clonar el repositorio:
    git clone https://github.com/tu-usuario/turbomax-motors-swing.git
