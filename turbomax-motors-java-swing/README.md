@@ -42,7 +42,7 @@ Requisitos Previos:
 
 Pasos de Instalación
 1. Clonar el repositorio:
-   git clone https://github.com/tu-usuario/turbomax-motors-swing.git
+   Descarga este proyecto desde GitHub
 2. Abrir el proyecto en Eclipse
    - Abrir Eclipse
    - Ir a File → Import → Existing Projects into Workspace
